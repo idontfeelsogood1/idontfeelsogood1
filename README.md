@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Lê Trọng Dương</h1>
 <h3 align="center">A passionate Fullstack Developer from Vietnam 🇻🇳</h3>
 <p align="center">
-  Focusing on the <b>PERN Stack</b> (PostgreSQL, Express, React, Node.js)
+  Focusing on the <b>PERN Stack</b>
 </p>
 
 <p align="center">
