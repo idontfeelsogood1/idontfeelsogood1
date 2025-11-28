@@ -58,15 +58,3 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idontfeelsogood1&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idontfeelsogood1&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idontfeelsogood1&theme=dracula&hide_border=true" alt="streak graph" />
-</div>
