@@ -24,7 +24,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Current Status:** I'm a college student passionate about building software.
-- 🌱 **Currently Learning:** Nest.js, TypeScript, and WebSockets.
+- 🌱 **Currently Learning:** CI/CD, Docker, Cloud.
 - 💬 **Ask Me About:** React, Node.js, JavaScript, and Backend logic.
 - ⚡ **Fun Fact:** I turn coffee into code (and bugs into features).
 - 📂 **Portfolio:** check out my [Repositories](https://github.com/idontfeelsogood1?tab=repositories).
